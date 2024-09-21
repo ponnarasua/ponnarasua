@@ -17,6 +17,16 @@ I am dedicated to continuous learning and staying abreast of the latest industry
 
 ---------------------------------------
 
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/ponnarasu-a-7997a11b8/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://kaggle.com/ponnarasua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ponnarasua" height="32" width="32" /></a>
+<a href="https://www.leetcode.com/ponnarasu_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ponnarasu_a" height="32" width="32" /></a>
+<a href="https://www.hackerearth.com/@ponnarasua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ponnarasua" height="32" width="32" /></a>
+</p>
+
+---------------------------------------
+
 ### *Badges*
 
 <b>My GitHub Stats</b>
