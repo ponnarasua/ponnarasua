@@ -25,8 +25,7 @@ I am dedicated to continuous learning and staying abreast of the latest industry
 <a href="https://www.leetcode.com/ponnarasu_a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ponnarasu_a" height="32" width="32" /></a>
 <a href="https://www.hackerearth.com/@ponnarasua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" alt="@ponnarasua" height="32" width="32" /></a>
 <a href="https://discord.com/users/sunder1011" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/ponnarasua/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a> 
-<a href="https://www.linkedin.com/in/ponnarasu-a-98135125b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/ponnarasua/" target="_blank" rel="noreferrer"></a> 
 <a href="https://www.stackoverflow.com/users/24845922/ponnarasu-a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </a>
 </p>
 
