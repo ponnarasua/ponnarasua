@@ -105,3 +105,13 @@ I am dedicated to continuous learning and staying abreast of the latest industry
 
 <a href="https://github.com/ponnarasua"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ponnarasua&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+---------------------------------------
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ponnarasua/ponnarasua/output/snake.svg" alt="Snake animation" />
+
+###
+ 
