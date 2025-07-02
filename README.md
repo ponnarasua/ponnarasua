@@ -107,11 +107,3 @@ I am dedicated to continuous learning and staying abreast of the latest industry
 
 ---------------------------------------
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ponnarasua/ponnarasua/output/snake.svg" alt="Snake animation" />
-
-###
- 
