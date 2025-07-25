@@ -6,7 +6,7 @@
 I am dedicated to continuous learning and staying abreast of the latest industry trends. My objective is to apply my skills and knowledge to contribute to innovative projects and make a meaningful impact in the tech industry. I am enthusiastic about connecting with professionals and exploring opportunities that challenge me to grow and excel in my career.
 
 * 🌍  I'm based in Coimbatore, Tamil Nadu, India
-* 🖥️  See my portfolio at [Portfolio](https://codewithponnarasu.vercel.app)
+* 🖥️  See my portfolio at [Portfolio](http://ponnarasua.github.io)
 * ✉️  You can contact me at [Mail](mailto:ponnarasua410@gmail.com)
 * 🤝  I'm open to collaborating on MERN Projects
 * ⚡  I am a Newbie
