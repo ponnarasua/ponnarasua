@@ -11,8 +11,8 @@ I am dedicated to continuous learning and staying abreast of the latest industry
 * ✉️  You can contact me at [Mail](mailto:ponnarasua410@gmail.com)
 * 🤝  I'm open to collaborating on MERN Projects
 * ⚡  I am a Newbie
-* 👨‍💻 All of my projects are available at [Github](https://github.com/ponnarasua)
-* 📄 Know about my experiences [Github](http://ponnarasua.github.io)
+* 👨‍💻 All of my projects are available at <a href="http://ponnarasua.github.io" target="_blank">Github</a>
+* 📄 Know about my experiences <a href="http://ponnarasua.github.io" target="_blank">Github</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ponnarasua&label=Profile%20views&color=0e75b6&style=flat" alt="ponnarasua" /> </p>
 
